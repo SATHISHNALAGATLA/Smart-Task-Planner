@@ -27,11 +27,11 @@ Features:
 * Anomaly detection (e.g., sudden CPU spikes, excessive RAM consumption)
 * Automatic response to anomalies (e.g., mark or terminate process)
 * Integration with machine learning for anomaly detection
+* Simple terminal-based user interface
+
 
 Video Demo Link:
 https://drive.google.com/file/d/1ggIZcV95bifpsWddlGVNNVubq_VtzlAU/view?usp=sharing
-
-* Simple terminal-based user interface
 
 👨‍💻 Author
 Project developed by Nalagatla Sathish
