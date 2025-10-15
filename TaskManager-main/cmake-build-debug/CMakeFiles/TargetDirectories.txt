@@ -1,0 +1,3 @@
+C:/Users/gagat/CLionProjects/TaskMenager/cmake-build-debug/CMakeFiles/TaskMenager.dir
+C:/Users/gagat/CLionProjects/TaskMenager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gagat/CLionProjects/TaskMenager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
